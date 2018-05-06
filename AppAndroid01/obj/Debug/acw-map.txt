@@ -1,0 +1,8 @@
+AppAndroid01.DataActivity, AppAndroid01;md52bef523f7f829a00eefeddf6caf4d2ea.DataActivity
+AppAndroid01.DataActivity, AppAndroid01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52bef523f7f829a00eefeddf6caf4d2ea.DataActivity
+AppAndroid01.DataActivity;md52bef523f7f829a00eefeddf6caf4d2ea.DataActivity
+appandroid01.DataActivity;md52bef523f7f829a00eefeddf6caf4d2ea.DataActivity
+AppAndroid01.MainActivity, AppAndroid01;md52bef523f7f829a00eefeddf6caf4d2ea.MainActivity
+AppAndroid01.MainActivity, AppAndroid01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52bef523f7f829a00eefeddf6caf4d2ea.MainActivity
+AppAndroid01.MainActivity;md52bef523f7f829a00eefeddf6caf4d2ea.MainActivity
+appandroid01.MainActivity;md52bef523f7f829a00eefeddf6caf4d2ea.MainActivity
